@@ -1,0 +1,11 @@
+--2025-06-19 16:48:42--  https://www.amicipeteco.it/archivioFiles/pexels-photo_gal_10.jpg?width=750
+Resolving www.amicipeteco.it (www.amicipeteco.it)... 94.23.68.133
+Connecting to www.amicipeteco.it (www.amicipeteco.it)|94.23.68.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62797 (61K) [image/jpeg]
+Saving to: ‘pexels-photo_gal_10.jpg?width=750’
+
+pexels-photo_gal_10.jpg?width=750            0%[                                                                                      ]       0  --.-KB/s               pexels-photo_gal_10.jpg?width=750          100%[=====================================================================================>]  61,33K  --.-KB/s    in 0,1s    
+
+2025-06-19 16:48:43 (425 KB/s) - ‘pexels-photo_gal_10.jpg?width=750’ saved [62797/62797]
+

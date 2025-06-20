@@ -1,0 +1,12 @@
+{
+    "files": {
+        "turtleps.py" : ""
+    },
+    "js_modules": {
+        "main": {
+          "js/imagetracer_v1.2.6.min.js" : "imagetracer",
+          "js/turtleps.js": "turtleps"
+        }
+    },
+    "packages": []
+}
